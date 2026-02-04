@@ -29,7 +29,8 @@ The framework ensures compliance with **AASB S2 (Climate-related Disclosures)** 
 │   ├── Master_Ledger_Data.csv          # Final processed dataset with emissions
 │   └── Real_Market_Data.csv            # Live ASX 50 financial extraction
 ├── Scripts/
-│   └── Market_Data_Extractor.py        # Python script for EVIC & Revenue sourcing
+│   ├── Market_Data_Extractor.py # Python script for EVIC & Revenue sourcing (Prelim)
+│   └── Python_Framework.ipynb  # Python script for EVIC & Revenue sourcing (Final Allignment)
 ├── Documentation/
 │   └── BHP_Annual_Report_2025.pdf      # Source for verified emission factors
 └── Portfolio_Carbon_Engine.xlsx        # Master Excel Dashboard & Power Query Model
