@@ -42,6 +42,7 @@ The framework ensures compliance with **AASB S2 (Climate-related Disclosures)** 
 
 The portion of the borrower's emissions attributed to the financial institution is calculated using **EVIC** (Enterprise Value Including Cash):
 
+$$\text{Attribution Factor} = \frac{\text{Outstanding Investment}}{\text{Enterprise Value Including Cash (EVIC)}}$$
 
 ### 2. Financed Emissions
 
