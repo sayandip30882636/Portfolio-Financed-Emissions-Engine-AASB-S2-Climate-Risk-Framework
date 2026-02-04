@@ -1,0 +1,201 @@
+Client_ID,Client_Name,Sector,Asset_Class,Region,Outstanding_Balance_AUD,Maturity_Date,Internal_Risk_Rating,Capital_Account_Code,Is_SBTi_Aligned
+MAC-CGM-2000,BHP Group Limited,Technology,Listed Equity,Australia,190397358.8,09-06-2028,8,GL-800-X,Yes
+MAC-CGM-2001,Rio Tinto Group,Aviation,Corporate Loan,Americas,300440828.2,09-01-2032,3,GL-314-X,No
+MAC-CGM-2002,Woodside Energy Group Ltd,Agricultural Commodities,Corporate Loan,Americas,33751388.02,06-12-2031,5,GL-199-X,No
+MAC-CGM-2003,Westpac Banking Corporation,Utilities - Gas,Listed Equity,Asia-Pacific,75719074.87,10-06-2026,6,GL-408-X,Yes
+MAC-CGM-2004,Telstra Group Limited,Commercial Real Estate,Unlisted Equity,EMEA,485105376.8,26-03-2030,6,GL-485-X,In Progress
+MAC-CGM-2005,Counterparty_005,Technology,Unlisted Equity,Australia,95003358.77,12-06-2032,1,GL-559-X,Yes
+MAC-CGM-2006,Counterparty_006,Steel Manufacturing,Listed Equity,Asia-Pacific,307768314.4,19-05-2032,9,GL-660-X,No
+MAC-CGM-2007,Counterparty_007,Oil & Gas Exploration,Project Finance,Americas,264763456.8,01-02-2033,10,GL-575-X,No
+MAC-CGM-2008,Counterparty_008,Oil & Gas Exploration,Listed Equity,Asia-Pacific,487008981.8,11-01-2031,3,GL-975-X,Yes
+MAC-CGM-2009,Counterparty_009,Aviation,Unlisted Equity,EMEA,259546047,19-12-2033,9,GL-230-X,No
+MAC-CGM-2010,Counterparty_010,Aviation,Listed Equity,EMEA,430670501.3,08-11-2027,5,GL-940-X,Yes
+MAC-CGM-2011,Counterparty_011,Aviation,Corporate Loan,EMEA,37200538.53,01-10-2032,9,GL-415-X,Yes
+MAC-CGM-2012,Counterparty_012,Oil & Gas Exploration,Corporate Loan,EMEA,283827667.8,03-09-2031,9,GL-445-X,No
+MAC-CGM-2013,Counterparty_013,Utilities - Gas,Project Finance,Americas,53347696.43,25-10-2029,7,GL-527-X,No
+MAC-CGM-2014,Counterparty_014,Oil & Gas Exploration,Project Finance,Americas,250112570.5,06-03-2026,1,GL-661-X,Yes
+MAC-CGM-2015,Counterparty_015,Mining - Iron Ore,Project Finance,Australia,332948530.8,01-07-2034,6,GL-665-X,Yes
+MAC-CGM-2016,Counterparty_016,Shipping & Logistics,Project Finance,Americas,275621588.3,11-03-2030,2,GL-829-X,Yes
+MAC-CGM-2017,Counterparty_017,Steel Manufacturing,Listed Equity,Australia,227628296,20-08-2026,4,GL-369-X,No
+MAC-CGM-2018,Counterparty_018,Agricultural Commodities,Project Finance,EMEA,364999638,27-03-2035,8,GL-561-X,No
+MAC-CGM-2019,Counterparty_019,Steel Manufacturing,Corporate Loan,EMEA,102011516.9,12-11-2028,8,GL-824-X,In Progress
+MAC-CGM-2020,Counterparty_020,Steel Manufacturing,Unlisted Equity,Australia,197395258.4,03-01-2027,5,GL-891-X,No
+MAC-CGM-2021,Counterparty_021,Renewable Energy,Corporate Loan,Americas,181592896.7,04-03-2028,9,GL-256-X,In Progress
+MAC-CGM-2022,Counterparty_022,Oil & Gas Exploration,Project Finance,Americas,402087505.5,05-04-2026,9,GL-938-X,Yes
+MAC-CGM-2023,Counterparty_023,Aviation,Listed Equity,Australia,214583733,28-03-2029,8,GL-571-X,In Progress
+MAC-CGM-2024,Counterparty_024,Technology,Listed Equity,Americas,11969512.24,02-04-2030,1,GL-491-X,No
+MAC-CGM-2025,Counterparty_025,Shipping & Logistics,Corporate Loan,Americas,365858548.2,24-06-2032,5,GL-589-X,In Progress
+MAC-CGM-2026,Counterparty_026,Steel Manufacturing,Project Finance,Asia-Pacific,182440535.6,20-10-2031,7,GL-300-X,In Progress
+MAC-CGM-2027,Counterparty_027,Utilities - Gas,Corporate Loan,Americas,313532572.8,27-03-2034,1,GL-147-X,In Progress
+MAC-CGM-2028,Counterparty_028,Utilities - Gas,Corporate Loan,Americas,188555034.8,17-11-2030,5,GL-198-X,Yes
+MAC-CGM-2029,Counterparty_029,Renewable Energy,Project Finance,Americas,297692404.9,04-09-2033,3,GL-838-X,In Progress
+MAC-CGM-2030,Counterparty_030,Shipping & Logistics,Listed Equity,Asia-Pacific,64199151.74,24-02-2030,3,GL-868-X,No
+MAC-CGM-2031,Counterparty_031,Renewable Energy,Unlisted Equity,Asia-Pacific,362256113,17-06-2027,7,GL-894-X,In Progress
+MAC-CGM-2032,Counterparty_032,Shipping & Logistics,Unlisted Equity,EMEA,263752750.5,04-12-2028,10,GL-653-X,Yes
+MAC-CGM-2033,Counterparty_033,Agricultural Commodities,Listed Equity,Americas,222471568.4,12-06-2028,7,GL-340-X,In Progress
+MAC-CGM-2034,Counterparty_034,Technology,Listed Equity,Asia-Pacific,160606210.6,06-05-2026,4,GL-833-X,No
+MAC-CGM-2035,Counterparty_035,Technology,Listed Equity,Asia-Pacific,73969069.93,27-04-2032,4,GL-624-X,In Progress
+MAC-CGM-2036,Counterparty_036,Steel Manufacturing,Unlisted Equity,Asia-Pacific,43105055.37,19-10-2030,3,GL-185-X,Yes
+MAC-CGM-2037,Counterparty_037,Commercial Real Estate,Listed Equity,Asia-Pacific,440831580.3,22-07-2033,9,GL-745-X,No
+MAC-CGM-2038,Counterparty_038,Aviation,Listed Equity,Asia-Pacific,230984612.4,01-08-2030,4,GL-897-X,Yes
+MAC-CGM-2039,Counterparty_039,Renewable Energy,Corporate Loan,Australia,442223728.2,21-08-2030,10,GL-447-X,Yes
+MAC-CGM-2040,Counterparty_040,Renewable Energy,Unlisted Equity,Americas,181367429.9,17-03-2032,1,GL-484-X,No
+MAC-CGM-2041,Counterparty_041,Utilities - Gas,Listed Equity,Americas,117827905.5,03-06-2033,4,GL-844-X,In Progress
+MAC-CGM-2042,Counterparty_042,Aviation,Corporate Loan,Americas,155866722.8,10-01-2028,8,GL-510-X,Yes
+MAC-CGM-2043,Counterparty_043,Commercial Real Estate,Corporate Loan,EMEA,211618446.6,09-02-2035,3,GL-333-X,Yes
+MAC-CGM-2044,Counterparty_044,Commercial Real Estate,Corporate Loan,Americas,172119509.8,22-07-2031,6,GL-771-X,Yes
+MAC-CGM-2045,Counterparty_045,Technology,Listed Equity,Asia-Pacific,261801357.8,17-02-2035,4,GL-212-X,Yes
+MAC-CGM-2046,Counterparty_046,Aviation,Unlisted Equity,Australia,37121662.32,24-11-2032,4,GL-367-X,In Progress
+MAC-CGM-2047,Counterparty_047,Technology,Corporate Loan,EMEA,129632236.4,20-07-2035,3,GL-212-X,No
+MAC-CGM-2048,Counterparty_048,Aviation,Corporate Loan,Australia,78303030.33,18-04-2034,1,GL-798-X,In Progress
+MAC-CGM-2049,Counterparty_049,Agricultural Commodities,Corporate Loan,EMEA,306734345.3,03-11-2027,6,GL-954-X,No
+MAC-CGM-2050,Counterparty_050,Aviation,Corporate Loan,Asia-Pacific,142929999.8,09-02-2035,1,GL-502-X,No
+MAC-CGM-2051,Counterparty_051,Oil & Gas Exploration,Project Finance,Asia-Pacific,341949198.5,11-01-2029,10,GL-771-X,No
+MAC-CGM-2052,Counterparty_052,Aviation,Unlisted Equity,Asia-Pacific,278682079.1,13-05-2032,4,GL-538-X,Yes
+MAC-CGM-2053,Counterparty_053,Steel Manufacturing,Project Finance,EMEA,382001709.6,02-06-2026,1,GL-866-X,In Progress
+MAC-CGM-2054,Counterparty_054,Utilities - Gas,Unlisted Equity,Americas,402554179.4,09-02-2034,2,GL-297-X,In Progress
+MAC-CGM-2055,Counterparty_055,Aviation,Unlisted Equity,Asia-Pacific,202418099,22-11-2035,1,GL-300-X,In Progress
+MAC-CGM-2056,Counterparty_056,Renewable Energy,Project Finance,Americas,163786132.2,21-05-2035,3,GL-759-X,Yes
+MAC-CGM-2057,Counterparty_057,Commercial Real Estate,Project Finance,Americas,166349658.1,09-06-2031,3,GL-445-X,In Progress
+MAC-CGM-2058,Counterparty_058,Technology,Corporate Loan,Asia-Pacific,258486063.9,26-06-2026,4,GL-963-X,No
+MAC-CGM-2059,Counterparty_059,Commercial Real Estate,Project Finance,EMEA,52607392.79,03-06-2027,1,GL-739-X,No
+MAC-CGM-2060,Counterparty_060,Agricultural Commodities,Listed Equity,Australia,261286918.5,28-01-2034,1,GL-878-X,Yes
+MAC-CGM-2061,Counterparty_061,Shipping & Logistics,Project Finance,Americas,173827843.8,25-12-2032,2,GL-250-X,Yes
+MAC-CGM-2062,Counterparty_062,Oil & Gas Exploration,Project Finance,Australia,273016747,23-04-2035,3,GL-362-X,Yes
+MAC-CGM-2063,Counterparty_063,Renewable Energy,Unlisted Equity,Australia,331692102.8,20-08-2032,9,GL-671-X,In Progress
+MAC-CGM-2064,Counterparty_064,Mining - Iron Ore,Listed Equity,Americas,134110441.5,22-02-2034,5,GL-136-X,In Progress
+MAC-CGM-2065,Counterparty_065,Shipping & Logistics,Project Finance,Asia-Pacific,441904989.9,20-06-2034,9,GL-332-X,In Progress
+MAC-CGM-2066,Counterparty_066,Oil & Gas Exploration,Listed Equity,Australia,177858739.4,03-12-2033,3,GL-503-X,No
+MAC-CGM-2067,Counterparty_067,Aviation,Project Finance,Australia,444107780,27-10-2034,1,GL-727-X,No
+MAC-CGM-2068,Counterparty_068,Steel Manufacturing,Listed Equity,Americas,46649282.67,13-01-2030,6,GL-203-X,Yes
+MAC-CGM-2069,Counterparty_069,Steel Manufacturing,Listed Equity,Asia-Pacific,305182384.5,11-02-2035,9,GL-198-X,Yes
+MAC-CGM-2070,Counterparty_070,Technology,Corporate Loan,Australia,486963599.2,11-03-2034,2,GL-805-X,Yes
+MAC-CGM-2071,Counterparty_071,Shipping & Logistics,Unlisted Equity,Americas,347488122.9,13-09-2028,9,GL-260-X,Yes
+MAC-CGM-2072,Counterparty_072,Steel Manufacturing,Corporate Loan,EMEA,13947304.99,04-03-2027,5,GL-915-X,Yes
+MAC-CGM-2073,Counterparty_073,Renewable Energy,Listed Equity,Asia-Pacific,374513245.5,04-05-2031,8,GL-234-X,No
+MAC-CGM-2074,Counterparty_074,Utilities - Gas,Listed Equity,Americas,361865262.5,01-11-2027,1,GL-787-X,Yes
+MAC-CGM-2075,Counterparty_075,Mining - Iron Ore,Project Finance,EMEA,51369010.07,15-05-2027,7,GL-121-X,Yes
+MAC-CGM-2076,Counterparty_076,Shipping & Logistics,Corporate Loan,EMEA,125774873.5,17-10-2031,6,GL-464-X,No
+MAC-CGM-2077,Counterparty_077,Steel Manufacturing,Corporate Loan,Americas,245937365.7,04-01-2031,2,GL-376-X,No
+MAC-CGM-2078,Counterparty_078,Technology,Listed Equity,Americas,253805361.1,19-06-2032,1,GL-552-X,No
+MAC-CGM-2079,Counterparty_079,Oil & Gas Exploration,Listed Equity,Asia-Pacific,118941707.8,25-04-2028,3,GL-615-X,Yes
+MAC-CGM-2080,Counterparty_080,Mining - Iron Ore,Project Finance,Americas,17036403.38,17-08-2034,1,GL-271-X,In Progress
+MAC-CGM-2081,Counterparty_081,Shipping & Logistics,Unlisted Equity,EMEA,470526999.3,29-12-2032,5,GL-617-X,Yes
+MAC-CGM-2082,Counterparty_082,Shipping & Logistics,Listed Equity,EMEA,188228556.6,04-12-2030,5,GL-379-X,No
+MAC-CGM-2083,Counterparty_083,Commercial Real Estate,Unlisted Equity,Asia-Pacific,168721400.8,28-11-2026,5,GL-706-X,In Progress
+MAC-CGM-2084,Counterparty_084,Renewable Energy,Listed Equity,Americas,481991888.7,19-10-2028,4,GL-290-X,Yes
+MAC-CGM-2085,Counterparty_085,Agricultural Commodities,Listed Equity,EMEA,156320024.6,25-03-2034,7,GL-260-X,No
+MAC-CGM-2086,Counterparty_086,Utilities - Gas,Corporate Loan,Asia-Pacific,161876392.6,07-06-2026,2,GL-892-X,Yes
+MAC-CGM-2087,Counterparty_087,Mining - Iron Ore,Unlisted Equity,Asia-Pacific,200372276.1,28-03-2033,10,GL-422-X,Yes
+MAC-CGM-2088,Counterparty_088,Agricultural Commodities,Corporate Loan,EMEA,287180279.2,18-10-2027,6,GL-762-X,In Progress
+MAC-CGM-2089,Counterparty_089,Mining - Iron Ore,Listed Equity,Australia,74341587.54,04-07-2026,10,GL-485-X,Yes
+MAC-CGM-2090,Counterparty_090,Technology,Unlisted Equity,Americas,164662628.3,11-10-2034,1,GL-492-X,In Progress
+MAC-CGM-2091,Counterparty_091,Technology,Listed Equity,EMEA,352729621.6,22-12-2034,7,GL-576-X,Yes
+MAC-CGM-2092,Counterparty_092,Commercial Real Estate,Corporate Loan,Australia,151772521.1,22-07-2027,3,GL-917-X,In Progress
+MAC-CGM-2093,Counterparty_093,Shipping & Logistics,Listed Equity,Australia,434200797.7,09-07-2027,10,GL-924-X,No
+MAC-CGM-2094,Counterparty_094,Commercial Real Estate,Corporate Loan,Americas,315807735.4,19-02-2026,1,GL-875-X,In Progress
+MAC-CGM-2095,Counterparty_095,Commercial Real Estate,Project Finance,Australia,352473604.2,06-03-2027,3,GL-570-X,No
+MAC-CGM-2096,Counterparty_096,Shipping & Logistics,Corporate Loan,Australia,18670302.08,18-06-2035,2,GL-899-X,Yes
+MAC-CGM-2097,Counterparty_097,Oil & Gas Exploration,Project Finance,Asia-Pacific,291248669.8,02-06-2028,3,GL-764-X,No
+MAC-CGM-2098,Counterparty_098,Aviation,Project Finance,Asia-Pacific,81745600.28,05-01-2035,6,GL-413-X,No
+MAC-CGM-2099,Counterparty_099,Oil & Gas Exploration,Unlisted Equity,Australia,430900286.1,10-07-2032,4,GL-781-X,Yes
+MAC-CGM-2100,Counterparty_100,Oil & Gas Exploration,Unlisted Equity,Americas,412187277.5,12-01-2029,5,GL-363-X,Yes
+MAC-CGM-2101,Counterparty_101,Renewable Energy,Project Finance,EMEA,386146808.8,09-06-2034,5,GL-202-X,No
+MAC-CGM-2102,Counterparty_102,Shipping & Logistics,Project Finance,Australia,47246995.17,25-06-2028,4,GL-449-X,No
+MAC-CGM-2103,Counterparty_103,Agricultural Commodities,Listed Equity,Americas,272614385.2,10-12-2033,8,GL-919-X,No
+MAC-CGM-2104,Counterparty_104,Mining - Iron Ore,Unlisted Equity,EMEA,70708984.01,04-02-2027,10,GL-769-X,No
+MAC-CGM-2105,Counterparty_105,Renewable Energy,Unlisted Equity,Asia-Pacific,25328420.8,30-05-2026,3,GL-703-X,Yes
+MAC-CGM-2106,Counterparty_106,Agricultural Commodities,Listed Equity,Asia-Pacific,373301108.3,31-10-2029,5,GL-573-X,No
+MAC-CGM-2107,Counterparty_107,Agricultural Commodities,Unlisted Equity,EMEA,481510965.3,08-11-2033,9,GL-740-X,Yes
+MAC-CGM-2108,Counterparty_108,Steel Manufacturing,Corporate Loan,Australia,90780688.44,27-06-2027,2,GL-195-X,No
+MAC-CGM-2109,Counterparty_109,Oil & Gas Exploration,Project Finance,Americas,276867199,13-08-2027,9,GL-587-X,In Progress
+MAC-CGM-2110,Counterparty_110,Commercial Real Estate,Listed Equity,EMEA,467633928.7,15-07-2028,7,GL-803-X,No
+MAC-CGM-2111,Counterparty_111,Technology,Listed Equity,Australia,279405256,07-11-2033,7,GL-175-X,Yes
+MAC-CGM-2112,Counterparty_112,Shipping & Logistics,Listed Equity,EMEA,285188419.2,07-09-2035,5,GL-185-X,No
+MAC-CGM-2113,Counterparty_113,Agricultural Commodities,Corporate Loan,EMEA,12124776.87,27-06-2029,5,GL-146-X,In Progress
+MAC-CGM-2114,Counterparty_114,Utilities - Gas,Corporate Loan,Asia-Pacific,25160757.15,09-12-2030,4,GL-552-X,In Progress
+MAC-CGM-2115,Counterparty_115,Commercial Real Estate,Unlisted Equity,Americas,239716045.4,14-04-2032,10,GL-531-X,In Progress
+MAC-CGM-2116,Counterparty_116,Commercial Real Estate,Project Finance,Asia-Pacific,404421923.6,24-07-2030,1,GL-353-X,No
+MAC-CGM-2117,Counterparty_117,Oil & Gas Exploration,Project Finance,Asia-Pacific,219756566.4,02-10-2031,10,GL-621-X,Yes
+MAC-CGM-2118,Counterparty_118,Oil & Gas Exploration,Unlisted Equity,Asia-Pacific,474827137.1,07-10-2034,2,GL-279-X,No
+MAC-CGM-2119,Counterparty_119,Shipping & Logistics,Corporate Loan,Americas,190433244.2,10-10-2033,3,GL-541-X,Yes
+MAC-CGM-2120,Counterparty_120,Mining - Iron Ore,Project Finance,EMEA,253014742.5,11-11-2028,5,GL-615-X,In Progress
+MAC-CGM-2121,Counterparty_121,Oil & Gas Exploration,Listed Equity,Australia,309846326.4,01-01-2027,7,GL-357-X,No
+MAC-CGM-2122,Counterparty_122,Technology,Listed Equity,Asia-Pacific,18123098.72,14-07-2028,4,GL-763-X,Yes
+MAC-CGM-2123,Counterparty_123,Aviation,Unlisted Equity,Americas,340198329.5,23-09-2032,1,GL-790-X,Yes
+MAC-CGM-2124,Counterparty_124,Agricultural Commodities,Corporate Loan,Australia,411216540.5,14-08-2029,3,GL-676-X,In Progress
+MAC-CGM-2125,Counterparty_125,Renewable Energy,Listed Equity,Americas,480789329.1,01-01-2029,2,GL-352-X,Yes
+MAC-CGM-2126,Counterparty_126,Renewable Energy,Unlisted Equity,EMEA,51749265.57,14-10-2031,7,GL-948-X,In Progress
+MAC-CGM-2127,Counterparty_127,Commercial Real Estate,Unlisted Equity,Americas,329582704.5,06-05-2033,10,GL-701-X,In Progress
+MAC-CGM-2128,Counterparty_128,Oil & Gas Exploration,Project Finance,Americas,173609161.9,25-05-2026,9,GL-295-X,In Progress
+MAC-CGM-2129,Counterparty_129,Agricultural Commodities,Unlisted Equity,Americas,347980727.6,07-08-2030,8,GL-519-X,No
+MAC-CGM-2130,Counterparty_130,Oil & Gas Exploration,Listed Equity,EMEA,211883285.7,26-06-2034,9,GL-775-X,No
+MAC-CGM-2131,Counterparty_131,Steel Manufacturing,Listed Equity,Australia,92832574.17,09-12-2032,8,GL-291-X,No
+MAC-CGM-2132,Counterparty_132,Renewable Energy,Listed Equity,Americas,290082664.8,26-02-2029,4,GL-195-X,Yes
+MAC-CGM-2133,Counterparty_133,Steel Manufacturing,Project Finance,Americas,173697752.4,05-01-2035,5,GL-879-X,No
+MAC-CGM-2134,Counterparty_134,Renewable Energy,Listed Equity,EMEA,217352043.6,28-04-2030,7,GL-316-X,Yes
+MAC-CGM-2135,Counterparty_135,Oil & Gas Exploration,Corporate Loan,Americas,122926895.4,26-01-2031,1,GL-980-X,Yes
+MAC-CGM-2136,Counterparty_136,Mining - Iron Ore,Listed Equity,EMEA,255099924.4,18-04-2031,9,GL-441-X,In Progress
+MAC-CGM-2137,Counterparty_137,Steel Manufacturing,Corporate Loan,Americas,152329411.4,18-07-2034,1,GL-711-X,Yes
+MAC-CGM-2138,Counterparty_138,Technology,Project Finance,Americas,10364637.48,17-02-2035,3,GL-175-X,Yes
+MAC-CGM-2139,Counterparty_139,Utilities - Gas,Project Finance,Australia,180678069.3,24-01-2031,4,GL-950-X,In Progress
+MAC-CGM-2140,Counterparty_140,Mining - Iron Ore,Project Finance,Asia-Pacific,249047700.6,23-06-2026,5,GL-168-X,In Progress
+MAC-CGM-2141,Counterparty_141,Agricultural Commodities,Corporate Loan,Asia-Pacific,150139332,24-07-2034,4,GL-990-X,No
+MAC-CGM-2142,Counterparty_142,Oil & Gas Exploration,Listed Equity,Asia-Pacific,110300308,27-11-2034,9,GL-138-X,In Progress
+MAC-CGM-2143,Counterparty_143,Renewable Energy,Unlisted Equity,EMEA,50147021.01,31-12-2028,10,GL-497-X,No
+MAC-CGM-2144,Counterparty_144,Aviation,Corporate Loan,Americas,277016796.8,01-04-2029,3,GL-314-X,No
+MAC-CGM-2145,Counterparty_145,Utilities - Gas,Corporate Loan,EMEA,275228306.2,28-06-2033,9,GL-173-X,In Progress
+MAC-CGM-2146,Counterparty_146,Renewable Energy,Unlisted Equity,Australia,419297117.8,10-03-2034,6,GL-618-X,Yes
+MAC-CGM-2147,Counterparty_147,Oil & Gas Exploration,Project Finance,EMEA,215915280.2,06-05-2029,10,GL-492-X,No
+MAC-CGM-2148,Counterparty_148,Renewable Energy,Listed Equity,Americas,411820729.4,04-06-2033,2,GL-616-X,No
+MAC-CGM-2149,Counterparty_149,Steel Manufacturing,Corporate Loan,EMEA,259096453.5,15-01-2030,3,GL-747-X,No
+MAC-CGM-2150,Counterparty_150,Utilities - Gas,Corporate Loan,Asia-Pacific,190264043.9,02-03-2031,6,GL-599-X,No
+MAC-CGM-2151,Counterparty_151,Steel Manufacturing,Unlisted Equity,Asia-Pacific,122159170.9,22-05-2035,9,GL-400-X,Yes
+MAC-CGM-2152,Counterparty_152,Oil & Gas Exploration,Listed Equity,Americas,377922201.7,07-09-2034,3,GL-544-X,In Progress
+MAC-CGM-2153,Counterparty_153,Agricultural Commodities,Corporate Loan,Asia-Pacific,192103857.1,23-02-2032,10,GL-957-X,No
+MAC-CGM-2154,Counterparty_154,Technology,Listed Equity,Asia-Pacific,168475001.9,02-11-2034,3,GL-272-X,No
+MAC-CGM-2155,Counterparty_155,Commercial Real Estate,Project Finance,Asia-Pacific,10620054.16,27-06-2029,10,GL-759-X,In Progress
+MAC-CGM-2156,Counterparty_156,Agricultural Commodities,Project Finance,Americas,63814868.55,08-05-2028,9,GL-100-X,No
+MAC-CGM-2157,Counterparty_157,Utilities - Gas,Unlisted Equity,EMEA,342114516.4,22-08-2032,9,GL-290-X,In Progress
+MAC-CGM-2158,Counterparty_158,Renewable Energy,Listed Equity,Americas,241468871,12-08-2035,8,GL-216-X,Yes
+MAC-CGM-2159,Counterparty_159,Utilities - Gas,Listed Equity,Americas,481795157,16-12-2027,5,GL-179-X,Yes
+MAC-CGM-2160,Counterparty_160,Aviation,Listed Equity,Americas,266212049,21-08-2026,5,GL-775-X,Yes
+MAC-CGM-2161,Counterparty_161,Mining - Iron Ore,Listed Equity,Asia-Pacific,279157870.8,05-05-2030,9,GL-501-X,In Progress
+MAC-CGM-2162,Counterparty_162,Shipping & Logistics,Project Finance,Americas,87276638.8,30-04-2035,1,GL-472-X,No
+MAC-CGM-2163,Counterparty_163,Mining - Iron Ore,Unlisted Equity,EMEA,349977902.7,15-03-2035,7,GL-111-X,Yes
+MAC-CGM-2164,Counterparty_164,Utilities - Gas,Listed Equity,Asia-Pacific,479557691.7,01-11-2033,8,GL-457-X,In Progress
+MAC-CGM-2165,Counterparty_165,Mining - Iron Ore,Unlisted Equity,Asia-Pacific,230550092.6,29-11-2027,5,GL-107-X,No
+MAC-CGM-2166,Counterparty_166,Mining - Iron Ore,Unlisted Equity,Australia,88991552.43,16-07-2033,10,GL-747-X,Yes
+MAC-CGM-2167,Counterparty_167,Agricultural Commodities,Project Finance,Americas,179909352.9,24-12-2034,5,GL-140-X,No
+MAC-CGM-2168,Counterparty_168,Technology,Corporate Loan,Americas,133675182.1,31-05-2031,6,GL-244-X,In Progress
+MAC-CGM-2169,Counterparty_169,Shipping & Logistics,Corporate Loan,Americas,143482936.1,29-08-2031,4,GL-560-X,In Progress
+MAC-CGM-2170,Counterparty_170,Steel Manufacturing,Project Finance,EMEA,343941930.4,12-08-2028,3,GL-352-X,In Progress
+MAC-CGM-2171,Counterparty_171,Utilities - Gas,Project Finance,EMEA,470563254.4,08-02-2034,5,GL-914-X,No
+MAC-CGM-2172,Counterparty_172,Aviation,Corporate Loan,EMEA,459992393.2,09-02-2026,8,GL-897-X,Yes
+MAC-CGM-2173,Counterparty_173,Technology,Unlisted Equity,Americas,433701625.3,25-06-2028,5,GL-218-X,In Progress
+MAC-CGM-2174,Counterparty_174,Commercial Real Estate,Unlisted Equity,EMEA,208571282.7,08-02-2027,1,GL-245-X,Yes
+MAC-CGM-2175,Counterparty_175,Oil & Gas Exploration,Project Finance,EMEA,493701684,04-03-2032,5,GL-381-X,Yes
+MAC-CGM-2176,Counterparty_176,Oil & Gas Exploration,Listed Equity,EMEA,193540974,14-12-2033,1,GL-560-X,No
+MAC-CGM-2177,Counterparty_177,Technology,Corporate Loan,EMEA,36438355.65,23-12-2031,3,GL-610-X,Yes
+MAC-CGM-2178,Counterparty_178,Renewable Energy,Project Finance,Asia-Pacific,140336500.6,10-12-2033,6,GL-575-X,In Progress
+MAC-CGM-2179,Counterparty_179,Utilities - Gas,Listed Equity,Australia,407385999.5,26-08-2030,6,GL-870-X,No
+MAC-CGM-2180,Counterparty_180,Shipping & Logistics,Listed Equity,Americas,279938694.3,02-06-2034,5,GL-776-X,Yes
+MAC-CGM-2181,Counterparty_181,Steel Manufacturing,Project Finance,Australia,379755195,23-04-2026,1,GL-184-X,In Progress
+MAC-CGM-2182,Counterparty_182,Commercial Real Estate,Unlisted Equity,Australia,228019347,16-04-2031,1,GL-150-X,No
+MAC-CGM-2183,Counterparty_183,Renewable Energy,Listed Equity,Australia,140992239.5,08-02-2030,1,GL-980-X,In Progress
+MAC-CGM-2184,Counterparty_184,Commercial Real Estate,Project Finance,Americas,379714570.4,13-10-2031,8,GL-650-X,No
+MAC-CGM-2185,Counterparty_185,Steel Manufacturing,Listed Equity,Asia-Pacific,337428731.8,05-12-2027,6,GL-217-X,In Progress
+MAC-CGM-2186,Counterparty_186,Commercial Real Estate,Listed Equity,Asia-Pacific,416528887.6,01-05-2035,1,GL-153-X,No
+MAC-CGM-2187,Counterparty_187,Aviation,Unlisted Equity,Australia,484147013.9,26-05-2034,9,GL-500-X,Yes
+MAC-CGM-2188,Counterparty_188,Shipping & Logistics,Corporate Loan,Asia-Pacific,71337538.08,28-04-2035,7,GL-306-X,No
+MAC-CGM-2189,Counterparty_189,Agricultural Commodities,Corporate Loan,Asia-Pacific,393410790.7,31-08-2027,3,GL-202-X,Yes
+MAC-CGM-2190,Counterparty_190,Mining - Iron Ore,Unlisted Equity,Americas,72503880.42,04-03-2028,2,GL-905-X,Yes
+MAC-CGM-2191,Counterparty_191,Oil & Gas Exploration,Corporate Loan,Australia,306003485.5,15-11-2033,3,GL-546-X,Yes
+MAC-CGM-2192,Counterparty_192,Oil & Gas Exploration,Listed Equity,Americas,364566531.2,06-10-2026,6,GL-580-X,In Progress
+MAC-CGM-2193,Counterparty_193,Technology,Corporate Loan,Australia,392908241.3,15-11-2028,7,GL-205-X,No
+MAC-CGM-2194,Counterparty_194,Renewable Energy,Corporate Loan,Americas,431870035.8,20-01-2032,4,GL-237-X,In Progress
+MAC-CGM-2195,Counterparty_195,Oil & Gas Exploration,Unlisted Equity,Americas,463660874.5,15-10-2029,1,GL-607-X,Yes
+MAC-CGM-2196,Counterparty_196,Technology,Unlisted Equity,Americas,37786809.04,09-04-2026,2,GL-873-X,Yes
+MAC-CGM-2197,Counterparty_197,Mining - Iron Ore,Unlisted Equity,EMEA,248845956.5,23-08-2026,3,GL-210-X,No
+MAC-CGM-2198,Counterparty_198,Technology,Unlisted Equity,Australia,68795462.35,29-12-2034,6,GL-619-X,No
+MAC-CGM-2199,Counterparty_199,Agricultural Commodities,Corporate Loan,EMEA,94133299.81,25-02-2034,8,GL-380-X,In Progress
