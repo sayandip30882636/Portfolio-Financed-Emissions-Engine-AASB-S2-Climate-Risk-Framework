@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project provides an end-to-end analytical framework for measuring, managing, and reporting **Scope 3 Category 15 (Financed Emissions)** for a diversified global financial portfolio. Developed to align with the **Macquarie CGM (Commodities and Global Markets)** operational context, the engine automates the ingestion of internal ledger data, integrates live market financial metrics, and applies global carbon accounting standards.
+This project provides an end-to-end analytical framework for measuring, managing, and reporting **Financed Emissions** for a diversified global financial portfolio. Developed to align with the **CGM (Commodities and Global Markets)** operational context, the engine automates the ingestion of internal ledger data, integrates live market financial metrics, and applies global carbon accounting standards.
 
 The framework ensures compliance with **AASB S2 (Climate-related Disclosures)** and follows the **PCAF (Partnership for Carbon Accounting Financials)** Global Standard.
 
