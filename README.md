@@ -45,7 +45,7 @@ The portion of the borrower's emissions attributed to the financial institution 
 $$\text{Attribution Factor} = \frac{\text{Outstanding Investment}}{\text{Enterprise Value Including Cash (EVIC)}}$$
 
 ### 2. Financed Emissions
-
+$$\text{Financed Emissions} = \text{Attribution Factor} \times \text{Company Emissions (Scope 1+2)}$$
 ### 3. Data Quality Hierarchy
 
 * **Score 1-2:** Verified reported emissions (e.g., BHP row verified via 2025 Annual Report).
